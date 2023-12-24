@@ -1,0 +1,25 @@
+body{
+    background-color: #F7ECDE;
+}
+
+.container h1{
+    font-family: Pacifico, cursive;
+    font-size: 50px;
+    color: #352e28;
+}
+
+.container .form h2{
+    font-family: 'Righteous', sans-serif;
+    font-size: 25px;
+    color: #7EA851;
+}
+
+.container .form span{
+padding-left: 6px;
+padding-right: 6px;
+}
+
+label{
+    font-family: 'PT Sans Caption', sans-serif;
+    
+}
